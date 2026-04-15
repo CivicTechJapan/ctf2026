@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:note.com)",
+      "Bash(git init:*)",
+      "Bash(git remote:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m ':*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(cp /Users/yow/Desktop/develop/ctf2026/black/index.html /Users/yow/Desktop/develop/ctf2026/index.html)",
+      "Bash(cp /Users/yow/Desktop/develop/ctf2026/black/style.css /Users/yow/Desktop/develop/ctf2026/style.css)",
+      "Bash(cp /Users/yow/Desktop/develop/ctf2026/black/main.js /Users/yow/Desktop/develop/ctf2026/main.js)",
+      "Bash(cp /Users/yow/Desktop/develop/ctf2026/black/assets/logo.png /Users/yow/Desktop/develop/ctf2026/assets/logo.png)"
+    ],
+    "additionalDirectories": [
+      "/Users/yow/Desktop/develop/ctf2026/black"
+    ]
+  }
+}
